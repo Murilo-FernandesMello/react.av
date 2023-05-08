@@ -1,0 +1,25 @@
+
+header {
+    background-color: rgb(1, 158, 179);
+    width: 100%;
+    padding: 40px 0 60px;
+}
+
+header .title {
+    padding: 10px;
+    color
+}
+
+header .title h1 {
+    text-align: center;
+}
+
+header .links {
+    text-align: end;
+}
+
+header .links img {
+    height: 40px;
+    width: 40px;
+    margin: 0 4px;
+}
